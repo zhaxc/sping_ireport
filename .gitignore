@@ -1,0 +1,20 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+.settings/
+
+# Eclipse Core
+.project
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# plugin
+target
+
+# STS (Spring Tool Suite)
+.springBeans
+
+
+# idea 文件
+/sping_ireport.iml
+/.idea/
